@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.lead {
+    /* "piso" la clase predefinida de bootstrap cambiando el font-size que tiene
+    por defecto (1.5rem)*/
+    font-size: 2rem;
+}
+
+.bg-primary {
+    background-color: blueviolet !important;
+}
